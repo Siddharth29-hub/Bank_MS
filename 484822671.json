@@ -1,0 +1,7 @@
+{
+    "type": "SavingsAccount",
+    "account_number": "484822671",
+    "name": "Shivam Sharma",
+    "balance": 93001.0,
+    "interest_rate": 0.05
+}
