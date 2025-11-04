@@ -1,6 +1,5 @@
 # ==========================================
 #   Bank Account Management System
-#   Author: Siddharth Sharma
 #   Technologies: Python, OOP, Exception Handling, File Handling
 # ==========================================
 
